@@ -1,0 +1,6 @@
+## Interface: 100105
+## Title: Remove Action Animations
+## Notes: Disables the 10.5.1 casting animations on actions
+## Author: Tuller
+## Version: @project-version@
+main.lua

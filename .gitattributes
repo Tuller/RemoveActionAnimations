@@ -1,0 +1,20 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Source files
+# ============
+*.lua       text
+*.xml       text
+*.toc       text
+*.yml       text
+*.pkgmeta   text
+
+# Luadoc output
+# =============
+*.html      text diff=html
+*.css       text diff=css
+
+# Documentation
+# =============
+*.md        text diff=markdown
+LICENSE     text
